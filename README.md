@@ -25,3 +25,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-botelho-71064a287/" alt="LinkedIn"/></a>
 <a href="https://codepen.io/oyanbotelho" title="CodePen">
   <img src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/oyanbotelho/" alt="CodePen"/></a>
+
+![Yan Botelho's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oyanbotelho\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
