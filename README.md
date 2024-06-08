@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ## Social Media
 
 <a href="https://instagram.com/oyanbotelho/" title="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/oyanbotelho/" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/oyanbotelho/" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/yan-botelho-71064a287/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-botelho-71064a287/" alt="LinkedIn"/></a>
 <a href="https://codepen.io/oyanbotelho" title="CodePen">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/oyanbotelho/" alt="CodePen"/></a>
+  <img src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/oyanbotelho/" alt="CodePen"/></a>
